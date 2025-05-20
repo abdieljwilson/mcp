@@ -1,0 +1,42 @@
+[
+    {
+      "question": "What’s the company’s vacation policy?",
+      "answer": "Full-time employees receive 20 paid vacation days annually, available after 6 months of employment. You can carry over up to 5 unused days to the next year. Submit vacation requests at least two weeks in advance via the HR portal. Managers must approve all requests, and priority is given based on submission date."
+    },
+    {
+      "question": "How do I get a new software license?",
+      "answer": "To request a software license, log into the IT Service Desk portal and submit a ticket with the software name, version, and a brief explanation of why it’s needed. Standard licenses are approved within 2–3 business days. Specialized software may take up to 7 business days and requires approval from your department head."
+    },
+    {
+      "question": "What are the rules for remote work?",
+      "answer": "The company supports a hybrid model, allowing up to 3 remote workdays per week. Coordinate with your team and get manager approval for remote days. You’ll need a reliable internet connection and a distraction-free workspace. Core hours for meetings are 10:00 AM to 3:00 PM EST, and you must be available during these times."
+    },
+    {
+      "question": "How do I file an expense report?",
+      "answer": "Submit expense reports through the company’s expense management system within 30 days of the expense. Attach receipts, categorize each expense, and include a short description. Expenses over $100 require extra documentation, such as a project code or justification. Your manager must approve all reports before reimbursement."
+    },
+    {
+      "question": "What should I do if I notice a security issue?",
+      "answer": "Report any security incidents immediately to the Security Team via security@company.com or the 24/7 hotline. Do not attempt to fix or investigate the issue yourself. Note down details like the time, affected systems, and what you observed. The Security Team will take over and may contact you for further details during their investigation."
+    },
+    {
+      "question": "How can I request time off for medical leave?",
+      "answer": "For medical leave, submit a request through the HR portal with details of the leave duration and a doctor’s note if applicable. Short-term medical leave (up to 5 days) requires manager approval, while longer leaves need HR review. Employees are entitled to up to 12 weeks of unpaid medical leave per year under company policy, with benefits maintained."
+    },
+    {
+      "question": "What’s the process for booking a meeting room?",
+      "answer": "Book meeting rooms via the company’s scheduling system, accessible through the intranet. Select the room, date, time, and purpose, and ensure your booking doesn’t conflict with others. Rooms must be reserved at least 24 hours in advance for non-urgent meetings. For urgent bookings, contact Facilities directly at facilities@company.com."
+    },
+    {
+      "question": "How do I enroll in the employee training program?",
+      "answer": "To join the training program, visit the HR portal and browse available courses under ‘Learning & Development.’ Select a course, complete the enrollment form, and get your manager’s approval. Most courses are online, with some requiring in-person attendance. Training progress is tracked, and completion may qualify you for role-specific certifications."
+    },
+    {
+      "question": "What are the guidelines for using company equipment?",
+      "answer": "Company equipment (e.g., laptops, monitors) is for work-related tasks only. Register all equipment with IT before use. Report any damage or issues via the IT Service Desk. Personal use of company equipment is prohibited, and all devices must have updated antivirus software installed. Return equipment promptly upon leaving the company."
+    },
+    {
+      "question": "How do I update my personal information in the HR system?",
+      "answer": "To update details like your address or emergency contacts, log into the HR portal and navigate to ‘My Profile.’ Make changes and submit for HR review. Updates to sensitive information, like bank details for payroll, require verification documents and may take 3–5 business days to process. Contact HR at hr@company.com for assistance."
+    }
+  ]
